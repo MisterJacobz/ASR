@@ -1,5 +1,9 @@
 # Setting up environment
-In order to setup the environment, we created a dockerfile. Simply build the container using:
+In order to setup the environment, we created a dockerfile. Make sure Docker is installed and running using:
+
+`docker --version`
+
+Now simply build the container using:
 
 `docker build -t my_notebook_image .`
 
