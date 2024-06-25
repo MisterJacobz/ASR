@@ -5,4 +5,5 @@ asr_project_asrbn_2/
 asr_project_asrbn_3/
 backup_asrbn/
 vctk_dev_short/
-
+data/wav_vctk
+data/transcripts_vctk
