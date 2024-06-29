@@ -1,0 +1,900 @@
+p234_001_mic2_gen Please call Stella.  
+p234_002_mic2_gen Ask her to bring these things with her from the store.  
+p234_003_mic2_gen Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p234_004_mic2_gen We also need a small plastic snake and a big toy frog for the kids.  
+p234_005_mic2_gen She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p234_006_mic2_gen When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p234_007_mic2_gen The rainbow is a division of white light into many beautiful colors. 
+p234_008_mic2_gen These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p234_009_mic2_gen There is , according to legend, a boiling pot of gold at one end. 
+p234_010_mic2_gen People look, but no one ever finds it. 
+p234_012_mic2_gen Throughout the centuries people have explained the rainbow in various ways. 
+p234_013_mic2_gen Some have accepted it as a miracle without physical explanation. 
+p234_014_mic2_gen To the Hebrews it was a token that there would be no more universal floods. 
+p234_015_mic2_gen The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p234_016_mic2_gen The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p234_017_mic2_gen Others have tried to explain the phenomenon physically. 
+p234_018_mic2_gen Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p234_019_mic2_gen Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p234_020_mic2_gen Many complicated ideas about the rainbow have been formed. 
+p234_021_mic2_gen The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p234_022_mic2_gen The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. 
+p234_023_mic2_gen If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p234_024_mic2_gen This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p234_025_mic2_gen We are a service industry.
+p234_026_mic2_gen But we will have to wait.
+p234_027_mic2_gen Police were called to the scene, according to the weekend reports.
+p234_028_mic2_gen I am not interested in the money, it is the principle.
+p234_029_mic2_gen However, the following year the cancer returned.
+p234_030_mic2_gen On our numbers, the price is in line with the asset value.
+p234_031_mic2_gen It is on the internet.
+p237_001_mic2_gen Please call Stella.  
+p237_002_mic2_gen Ask her to bring these things with her from the store.  
+p237_003_mic2_gen Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p237_004_mic2_gen We also need a small plastic snake and a big toy frog for the kids.  
+p237_005_mic2_gen She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p237_006_mic2_gen When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p237_007_mic2_gen The rainbow is a division of white light into many beautiful colors. 
+p237_008_mic2_gen These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p237_009_mic2_gen There is , according to legend, a boiling pot of gold at one end. 
+p237_010_mic2_gen People look, but no one ever finds it. 
+p237_011_mic2_gen When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p237_012_mic2_gen Throughout the centuries people have explained the rainbow in various ways. 
+p237_013_mic2_gen Some have accepted it as a miracle without physical explanation. 
+p237_014_mic2_gen To the Hebrews it was a token that there would be no more universal floods. 
+p237_015_mic2_gen The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p237_016_mic2_gen The Norsemen considered the rainbow as a bridge over which the gods passed from the earth to their home in the sky. 
+p237_017_mic2_gen Others have tried to explain the phenomenon physically. 
+p237_018_mic2_gen Aristotle thought that the rainbow was caused by the reflection of the sun's rays by the rain. 
+p237_019_mic2_gen Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p237_020_mic2_gen Many complicated ideas about the rainbow have been formed. 
+p237_021_mic2_gen The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p237_023_mic2_gen If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p237_024_mic2_gen This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p237_025_mic2_gen He said the matter had been neglected in the past.
+p237_026_mic2_gen They should be so lucky.
+p237_027_mic2_gen I have a theory.
+p237_028_mic2_gen They should have a major rethink about the event for next year.
+p237_029_mic2_gen The appeal tribunal will give its decision at a later date.
+p237_030_mic2_gen However, the following year the cancer returned.
+p237_031_mic2_gen We want to ensure that the process is entirely transparent.
+p238_001_mic2_gen Please call Stella.
+p238_002_mic2_gen Ask her to bring these things with her from the store.
+p238_003_mic2_gen Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+p238_004_mic2_gen We also need a small plastic snake and a big toy frog for the kids.
+p238_005_mic2_gen She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+p238_006_mic2_gen When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+p238_007_mic2_gen The rainbow is a division of white light into many beautiful colors.
+p238_008_mic2_gen These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+p238_009_mic2_gen There is , according to legend, a boiling pot of gold at one end.
+p238_010_mic2_gen People look, but no one ever finds it.
+p238_011_mic2_gen When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow.
+p238_012_mic2_gen Throughout the centuries people have explained the rainbow in various ways.
+p238_013_mic2_gen Some have accepted it as a miracle without physical explanation.
+p238_014_mic2_gen To the Hebrews it was a token that there would be no more universal floods.
+p238_015_mic2_gen The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain.
+p238_016_mic2_gen The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky.
+p238_017_mic2_gen Others have tried to explain the phenomenon physically.
+p238_018_mic2_gen Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain.
+p238_019_mic2_gen Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows.
+p238_020_mic2_gen Many complicated ideas about the rainbow have been formed.
+p238_021_mic2_gen The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.
+p238_022_mic2_gen The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows.
+p238_023_mic2_gen If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow.
+p238_024_mic2_gen This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p238_025_mic2_gen Smoking is also very important.
+p238_026_mic2_gen The first appeared to be successful.
+p238_027_mic2_gen We must convince the citizens.
+p238_028_mic2_gen There was a rush of water.
+p238_029_mic2_gen Last night, Mr Robertson said he was delighted.
+p238_030_mic2_gen Further management changes are planned.
+p241_001_mic2_gen Please call Stella.  
+p241_002_mic2_gen Ask her to bring these things with her from the store.  
+p241_003_mic2_gen Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p241_004_mic2_gen We also need a small plastic snake and a big toy frog for the kids.  
+p241_005_mic2_gen She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p241_006_mic2_gen When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p241_007_mic2_gen The rainbow is a division of white light into many beautiful colors. 
+p241_008_mic2_gen These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p241_009_mic2_gen There is , according to legend, a boiling pot of gold at one end. 
+p241_010_mic2_gen People look, but no one ever finds it. 
+p241_011_mic2_gen When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p241_012_mic2_gen Throughout the centuries people have explained the rainbow in various ways. 
+p241_013_mic2_gen Some have accepted it as a miracle without physical explanation. 
+p241_014_mic2_gen To the Hebrews it was a token that there would be no more universal floods. 
+p241_016_mic2_gen The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p241_017_mic2_gen Others have tried to explain the phenomenon physically. 
+p241_018_mic2_gen Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p241_019_mic2_gen Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p241_021_mic2_gen The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p241_023_mic2_gen If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p241_024_mic2_gen This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p241_025_mic2_gen She is given a new deputy minister for transport and planning.
+p241_026_mic2_gen He said the matter had been neglected in the past.
+p241_027_mic2_gen We have to pull together, or we will hang apart.
+p241_028_mic2_gen I am not interested in the money, it is the principle.
+p241_029_mic2_gen However, the following year the cancer returned.
+p241_030_mic2_gen Their courage, and their honesty, should be respected.
+p241_031_mic2_gen They were described as being in a serious but stable condition yesterday.
+p241_032_mic2_gen This is the window.
+p241_033_mic2_gen People love to see this stuff.
+p245_001_mic2_gen Please call Stella.  
+p245_002_mic2_gen Ask her to bring these things with her from the store.  
+p245_003_mic2_gen Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p245_004_mic2_gen We also need a small plastic snake and a big toy frog for the kids.  
+p245_005_mic2_gen She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p245_006_mic2_gen When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p245_007_mic2_gen The rainbow is a division of white light into many beautiful colors. 
+p245_008_mic2_gen These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p245_009_mic2_gen There is , according to legend, a boiling pot of gold at one end. 
+p245_010_mic2_gen People look, but no one ever finds it. 
+p245_011_mic2_gen When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p245_012_mic2_gen Throughout the centuries people have explained the rainbow in various ways. 
+p245_013_mic2_gen Some have accepted it as a miracle without physical explanation. 
+p245_014_mic2_gen To the Hebrews it was a token that there would be no more universal floods. 
+p245_015_mic2_gen The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p245_016_mic2_gen Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p245_017_mic2_gen Others have tried to explain the phenomenon physically. 
+p245_018_mic2_gen Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p245_019_mic2_gen Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p245_020_mic2_gen Many complicated ideas about the rainbow have been formed. 
+p245_021_mic2_gen The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p245_022_mic2_gen The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. 
+p245_023_mic2_gen If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p245_024_mic2_gen This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p245_025_mic2_gen Johnson was pretty low.
+p245_026_mic2_gen But it failed.
+p245_027_mic2_gen It's nice to hear.
+p245_028_mic2_gen We decided we would go for a specialist inside centre.
+p245_029_mic2_gen Several other countries are also reported to be interested in the format.
+p245_030_mic2_gen They should be so lucky.
+p246_001_mic2_gen Please call Stella.  
+p246_002_mic2_gen Ask her to bring these things with her from the store.  
+p246_003_mic2_gen Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p246_004_mic2_gen We also need a small plastic snake and a big toy frog for the kids.  
+p246_005_mic2_gen She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p246_006_mic2_gen When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p246_007_mic2_gen The rainbow is a division of white light into many beautiful colors. 
+p246_008_mic2_gen These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p246_009_mic2_gen There is , according to legend, a boiling pot of gold at one end. 
+p246_010_mic2_gen People look, but no one ever finds it. 
+p246_011_mic2_gen When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p246_012_mic2_gen Throughout the centuries people have explained the rainbow in various ways. 
+p246_013_mic2_gen Some have accepted it as a miracle without physical explanation. 
+p246_014_mic2_gen To the Hebrews it was a token that there would be no more universal floods. 
+p246_015_mic2_gen The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p246_016_mic2_gen The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p246_017_mic2_gen Others have tried to explain the phenomenon physically. 
+p246_018_mic2_gen Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p246_019_mic2_gen Since then physicists have found that it is not reflection, but refraction by raindrops which causes the rainbows. 
+p246_020_mic2_gen Many complicated ideas about the rainbow have been formed. 
+p246_021_mic2_gen The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p246_022_mic2_gen The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. 
+p246_023_mic2_gen If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p246_024_mic2_gen This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p246_025_mic2_gen He has not been named.
+p246_026_mic2_gen We have to pull together, or we will hang apart.
+p246_027_mic2_gen Is this accurate?
+p246_028_mic2_gen However, the following year the cancer returned.
+p246_029_mic2_gen They were described as being in a serious but stable condition yesterday.
+p246_030_mic2_gen There's a story, too.
+p247_001_mic2_gen Please call Stella.  
+p247_002_mic2_gen Ask her to bring these things with her from the store.  
+p247_003_mic2_gen Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p247_004_mic2_gen We also need a small plastic snake and a big toy frog for the kids.  
+p247_005_mic2_gen She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p247_006_mic2_gen When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p247_007_mic2_gen The rainbow is a division of white light into many beautiful colors. 
+p247_008_mic2_gen These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p247_009_mic2_gen There is , according to legend, a boiling pot of gold at one end. 
+p247_010_mic2_gen People look, but no one ever finds it. 
+p247_011_mic2_gen When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p247_012_mic2_gen Throughout the centuries people have explained the rainbow in various ways. 
+p247_013_mic2_gen Some have accepted it as a miracle without physical explanation. 
+p247_014_mic2_gen To the Hebrews it was a token that there would be no more universal floods. 
+p247_016_mic2_gen The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p247_017_mic2_gen Others have tried to explain the phenomenon physically. 
+p247_018_mic2_gen Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p247_019_mic2_gen Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p247_020_mic2_gen Many complicated ideas about the rainbow have been formed. 
+p247_021_mic2_gen The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p247_022_mic2_gen The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. 
+p247_023_mic2_gen If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p247_024_mic2_gen This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p247_025_mic2_gen They are very clever in their use of words.
+p247_026_mic2_gen Meetings will also remain private.
+p247_027_mic2_gen Suggestions of the action being a punishment were dismissed.
+p247_028_mic2_gen Because we do not need it.
+p247_029_mic2_gen A shortlist is to be drawn up next month.
+p247_030_mic2_gen Nonetheless, the overall picture is healthy.
+p247_031_mic2_gen I feel so desperately sorry for Gordon and Sarah.
+p249_002_mic2_gen Ask her to bring these things with her from the store.  
+p249_003_mic2_gen Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p249_004_mic2_gen We also need a small plastic snake and a big toy frog for the kids.  
+p249_005_mic2_gen She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p249_006_mic2_gen When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p249_007_mic2_gen The rainbow is a division of white light into many beautiful colors. 
+p249_008_mic2_gen These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p249_009_mic2_gen There is , according to legend, a boiling pot of gold at one end. 
+p249_010_mic2_gen People look, but no one ever finds it. 
+p249_011_mic2_gen When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p249_012_mic2_gen Throughout the centuries people have explained the rainbow in various ways. 
+p249_013_mic2_gen Some have accepted it as a miracle without physical explanation. 
+p249_014_mic2_gen To the Hebrews it was a token that there would be no more universal floods. 
+p249_016_mic2_gen The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p249_017_mic2_gen Others have tried to explain the phenomenon physically. 
+p249_018_mic2_gen Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p249_019_mic2_gen Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p249_020_mic2_gen Many complicated ideas about the rainbow have been formed. 
+p249_021_mic2_gen The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p249_022_mic2_gen The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. 
+p249_023_mic2_gen If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p249_024_mic2_gen This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p249_025_mic2_gen She is given a new deputy minister for transport and planning.
+p249_026_mic2_gen Police were called to the scene, according to the weekend reports.
+p249_027_mic2_gen It's nice to hear.
+p249_028_mic2_gen They should be so lucky.
+p249_029_mic2_gen Because we do not need it.
+p249_030_mic2_gen There's a story, too.
+p249_031_mic2_gen Naturally enough, the letter in question was an E.
+p249_032_mic2_gen He took me on a tour of the wards.
+p252_001_mic2_gen Please call Stella.  
+p252_002_mic2_gen Ask her to bring these things with her from the store.  
+p252_003_mic2_gen Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p252_004_mic2_gen We also need a small plastic snake and a big toy frog for the kids.  
+p252_005_mic2_gen She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p252_006_mic2_gen When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p252_007_mic2_gen The rainbow is a division of white light into many beautiful colors. 
+p252_008_mic2_gen These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p252_009_mic2_gen There is , according to legend, a boiling pot of gold at one end. 
+p252_010_mic2_gen People look, but no one ever finds it. 
+p252_011_mic2_gen When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p252_012_mic2_gen Throughout the centuries people have explained the rainbow in various ways. 
+p252_013_mic2_gen Some have accepted it as a miracle without physical explanation. 
+p252_014_mic2_gen To the Hebrews it was a token that there would be no more universal floods. 
+p252_015_mic2_gen The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p252_016_mic2_gen The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p252_017_mic2_gen Others have tried to explain the phenomenon physically. 
+p252_018_mic2_gen Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p252_019_mic2_gen Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p252_020_mic2_gen Many complicated ideas about the rainbow have been formed. 
+p252_021_mic2_gen The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored bands increases as the size of the drops increases. 
+p252_022_mic2_gen The actual primary rainbow observed is said to be the effect of super-position of a number of bows. 
+p252_023_mic2_gen If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p252_024_mic2_gen This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p252_025_mic2_gen Then nine minutes before half time Kenny Miller struck.
+p252_026_mic2_gen This would include insurance.
+p252_027_mic2_gen It would fit very well with us.
+p252_028_mic2_gen He does not even trust his own members.
+p252_029_mic2_gen Do not give your details to anyone.
+p252_030_mic2_gen Schools do not create that.
+p253_001_mic2_gen Please call Stella.  
+p253_002_mic2_gen Ask her to bring these things with her from the store.  
+p253_003_mic2_gen Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p253_004_mic2_gen We also need a small plastic snake and a big toy frog for the kids.  
+p253_005_mic2_gen She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p253_007_mic2_gen The rainbow is a division of white light into many beautiful colors. 
+p253_008_mic2_gen These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p253_009_mic2_gen There is , according to legend, a boiling pot of gold at one end. 
+p253_010_mic2_gen People look, but no one ever finds it. 
+p253_011_mic2_gen When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p253_012_mic2_gen Throughout the centuries people have explained the rainbow in various ways. 
+p253_013_mic2_gen Some have accepted it as a miracle without physical explanation. 
+p253_014_mic2_gen To the Hebrews it was a token that there would be no more universal floods. 
+p253_015_mic2_gen The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p253_016_mic2_gen The Norsemen considered the rainbow as a bridge over which the gods passed from the earth to their home in the sky. 
+p253_017_mic2_gen Others have tried to explain the phenomenon physically. 
+p253_018_mic2_gen Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p253_020_mic2_gen Many complicated ideas about the rainbow have been formed. 
+p253_021_mic2_gen The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p253_023_mic2_gen If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p253_024_mic2_gen This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p253_025_mic2_gen But it failed.
+p253_026_mic2_gen Police were called to the scene, according to the weekend reports.
+p253_027_mic2_gen Several other countries are also reported to be interested in the format.
+p253_028_mic2_gen However, the following year the cancer returned.
+p253_029_mic2_gen Their courage, and their honesty, should be respected.
+p253_030_mic2_gen This is the window.
+p253_031_mic2_gen He was jailed for five years.
+p253_032_mic2_gen Help is needed.
+p253_033_mic2_gen Then, suddenly, they weren't.
+p255_001_mic2_gen Please call Stella.  
+p255_002_mic2_gen Ask her to bring these things with her from the store.  
+p255_003_mic2_gen Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p255_004_mic2_gen We also need a small plastic snake and a big toy frog for the kids.  
+p255_005_mic2_gen She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p255_006_mic2_gen When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p255_007_mic2_gen The rainbow is a division of white light into many beautiful colors. 
+p255_008_mic2_gen These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p255_009_mic2_gen There is , according to legend, a boiling pot of gold at one end. 
+p255_010_mic2_gen People look, but no one ever finds it. 
+p255_011_mic2_gen When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p255_012_mic2_gen Throughout the centuries people have explained the rainbow in various ways. 
+p255_013_mic2_gen Some have accepted it as a miracle without physical explanation. 
+p255_014_mic2_gen To the Hebrews it was a token that there would be no more universal floods. 
+p255_015_mic2_gen The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p255_016_mic2_gen The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p255_017_mic2_gen Others have tried to explain the phenomenon physically. 
+p255_018_mic2_gen Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p255_019_mic2_gen Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p255_020_mic2_gen Many complicated ideas about the rainbow have been formed. 
+p255_021_mic2_gen The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p255_022_mic2_gen The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. 
+p255_023_mic2_gen If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p255_024_mic2_gen This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p255_025_mic2_gen He has not been named.
+p255_026_mic2_gen We have to pull together, or we will hang apart.
+p255_027_mic2_gen They should be so lucky.
+p255_028_mic2_gen We want to ensure that the process is entirely transparent.
+p255_029_mic2_gen They were described as being in a serious but stable condition yesterday.
+p255_030_mic2_gen Life was like a timetable.
+p260_001_mic2_gen Please call Stella.  
+p260_002_mic2_gen Ask her to bring these things with her from the store.  
+p260_003_mic2_gen Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p260_004_mic2_gen We also need a small plastic snake and a big toy frog for the kids.  
+p260_005_mic2_gen She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p260_006_mic2_gen When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p260_007_mic2_gen The rainbow is a division of white light into many beautiful colors. 
+p260_008_mic2_gen These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p260_009_mic2_gen There is , according to legend, a boiling pot of gold at one end. 
+p260_010_mic2_gen People look, but no one ever finds it. 
+p260_011_mic2_gen When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p260_012_mic2_gen Throughout the centuries people have explained the rainbow in various ways. 
+p260_013_mic2_gen Some have accepted it as a miracle without physical explanation. 
+p260_014_mic2_gen To the Hebrews it was a token that there would be no more universal floods. 
+p260_015_mic2_gen The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p260_016_mic2_gen The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p260_017_mic2_gen Others have tried to explain the phenomenon physically. 
+p260_018_mic2_gen Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p260_019_mic2_gen Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p260_020_mic2_gen Many complicated ideas about the rainbow have been formed. 
+p260_021_mic2_gen The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p260_022_mic2_gen The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. 
+p260_023_mic2_gen If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p260_024_mic2_gen This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p260_025_mic2_gen Several other countries are also reported to be interested in the format.
+p260_026_mic2_gen We will be homeless.
+p260_027_mic2_gen Is this accurate?
+p260_028_mic2_gen I am not interested in the money, it is the principle.
+p260_029_mic2_gen They have no history.
+p260_030_mic2_gen Their courage, and their honesty, should be respected.
+p261_001_mic2_gen Please call Stella.  
+p261_002_mic2_gen Ask her to bring these things with her from the store.  
+p261_003_mic2_gen Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p261_004_mic2_gen We also need a small plastic snake and a big toy frog for the kids.  
+p261_005_mic2_gen She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p261_006_mic2_gen When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p261_007_mic2_gen The rainbow is a division of white light into many beautiful colors. 
+p261_008_mic2_gen These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p261_009_mic2_gen There is , according to legend, a boiling pot of gold at one end. 
+p261_010_mic2_gen People look, but no one ever finds it. 
+p261_011_mic2_gen When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p261_012_mic2_gen Throughout the centuries people have explained the rainbow in various ways. 
+p261_013_mic2_gen Some have accepted it as a miracle without physical explanation. 
+p261_014_mic2_gen To the Hebrews it was a token that there would be no more universal floods. 
+p261_015_mic2_gen The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p261_016_mic2_gen The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p261_017_mic2_gen Others have tried to explain the phenomenon physically. 
+p261_018_mic2_gen Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p261_019_mic2_gen Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p261_020_mic2_gen Many complicated ideas about the rainbow have been formed. 
+p261_021_mic2_gen The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p261_022_mic2_gen The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. 
+p261_023_mic2_gen If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p261_024_mic2_gen This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p261_025_mic2_gen They are very clever in their use of words.
+p261_026_mic2_gen Meetings will also remain private.
+p261_027_mic2_gen Because we do not need it.
+p261_028_mic2_gen Life was like a timetable.
+p261_029_mic2_gen Last night, Mr Robertson said he was delighted.
+p261_030_mic2_gen We will look into it.
+p262_001_mic2_gen Please call Stella.  
+p262_002_mic2_gen Ask her to bring these things with her from the store.  
+p262_003_mic2_gen Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p262_004_mic2_gen We also need a small plastic snake and a big toy frog for the kids.  
+p262_005_mic2_gen She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p262_006_mic2_gen When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p262_007_mic2_gen The rainbow is a division of white light into many beautiful colors. 
+p262_008_mic2_gen These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p262_009_mic2_gen There is , according to legend, a boiling pot of gold at one end. 
+p262_010_mic2_gen People look, but no one ever finds it. 
+p262_011_mic2_gen When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p262_012_mic2_gen Throughout the centuries people have explained the rainbow in various ways. 
+p262_013_mic2_gen Some have accepted it as a miracle without physical explanation. 
+p262_014_mic2_gen To the Hebrews it was a token that there would be no more universal floods. 
+p262_015_mic2_gen The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p262_016_mic2_gen The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p262_017_mic2_gen Others have tried to explain the phenomenon physically. 
+p262_018_mic2_gen Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p262_019_mic2_gen Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p262_020_mic2_gen Many complicated ideas about the rainbow have been formed. 
+p262_021_mic2_gen The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p262_022_mic2_gen The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. 
+p262_023_mic2_gen If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p262_024_mic2_gen This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p262_025_mic2_gen The main concern is that it could interfere with air traffic.
+p262_026_mic2_gen They should have a major rethink about the event for next year.
+p262_027_mic2_gen However, the following year the cancer returned.
+p262_028_mic2_gen Their courage, and their honesty, should be respected.
+p262_029_mic2_gen We want to ensure that the process is entirely transparent.
+p262_030_mic2_gen They were described as being in a serious but stable condition yesterday.
+p263_001_mic2_gen Please call Stella.  
+p263_002_mic2_gen Ask her to bring these things with her from the store.  
+p263_003_mic2_gen Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p263_004_mic2_gen We also need a small plastic snake and a big toy frog for the kids.  
+p263_005_mic2_gen She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p263_006_mic2_gen When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p263_007_mic2_gen The rainbow is a division of white light into many beautiful colors. 
+p263_008_mic2_gen These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p263_009_mic2_gen There is , according to legend, a boiling pot of gold at one end. 
+p263_010_mic2_gen People look, but no one ever finds it. 
+p263_011_mic2_gen When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p263_012_mic2_gen Throughout the centuries people have explained the rainbow in various ways. 
+p263_013_mic2_gen Some have accepted it as a miracle without physical explanation. 
+p263_014_mic2_gen To the Hebrews it was a token that there would be no more universal floods. 
+p263_015_mic2_gen The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p263_016_mic2_gen The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p263_017_mic2_gen Others have tried to explain the phenomenon physically. 
+p263_018_mic2_gen Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p263_019_mic2_gen Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p263_020_mic2_gen Many complicated ideas about the rainbow have been formed. 
+p263_021_mic2_gen The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p263_022_mic2_gen The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. 
+p263_023_mic2_gen If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p263_024_mic2_gen This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p263_025_mic2_gen Why do you want to come to Edinburgh?
+p263_026_mic2_gen How are you, sir?
+p263_027_mic2_gen So is that it, then?
+p263_028_mic2_gen Do I have a favourite?
+p263_029_mic2_gen What do we do?
+p263_030_mic2_gen We would like to find another region to develop in England.
+p264_001_mic2_gen Please call Stella.  
+p264_002_mic2_gen Ask her to bring these things with her from the store.  
+p264_003_mic2_gen Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p264_004_mic2_gen We also need a small plastic snake and a big toy frog for the kids.  
+p264_005_mic2_gen She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p264_006_mic2_gen When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p264_007_mic2_gen The rainbow is a division of white light into many beautiful colors. 
+p264_008_mic2_gen These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p264_009_mic2_gen There is , according to legend, a boiling pot of gold at one end. 
+p264_010_mic2_gen People look, but no one ever finds it. 
+p264_011_mic2_gen When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p264_012_mic2_gen Throughout the centuries people have explained the rainbow in various ways. 
+p264_013_mic2_gen Some have accepted it as a miracle without physical explanation. 
+p264_014_mic2_gen To the Hebrews it was a token that there would be no more universal floods. 
+p264_015_mic2_gen The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p264_016_mic2_gen The Norsemen considered the rainbow as a bridge over which gods passed from earth to their home in the sky. 
+p264_018_mic2_gen Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p264_019_mic2_gen Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p264_020_mic2_gen Many complicated ideas about the rainbow have been formed. 
+p264_021_mic2_gen The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p264_023_mic2_gen If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p264_024_mic2_gen This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p264_025_mic2_gen The west coast line is not just for middle England.
+p264_026_mic2_gen I've got the same feeling as I had last week in Germany.
+p264_027_mic2_gen He does not even trust his own members.
+p264_028_mic2_gen We're only taking on a couple just now.
+p264_029_mic2_gen The local primary is excellent.
+p264_030_mic2_gen Do not give your details to anyone.
+p264_031_mic2_gen I feel I did not have enough time.
+p264_032_mic2_gen He added that her comments were noted.
+p265_002_mic2_gen Ask her to bring these things with her from the store.  
+p265_003_mic2_gen Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p265_004_mic2_gen We also need a small plastic snake and a big toy frog for the kids.  
+p265_005_mic2_gen She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p265_006_mic2_gen When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p265_007_mic2_gen The rainbow is a division of white light into many beautiful colors. 
+p265_008_mic2_gen These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p265_010_mic2_gen People look, but no one ever finds it. 
+p265_011_mic2_gen When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p265_012_mic2_gen Throughout the centuries people have explained the rainbow in various ways. 
+p265_013_mic2_gen Some have accepted it as a miracle without physical explanation. 
+p265_014_mic2_gen To the Hebrews it was a token that there would be no more universal floods. 
+p265_015_mic2_gen The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p265_016_mic2_gen The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p265_017_mic2_gen Others have tried to explain the phenomenon physically. 
+p265_018_mic2_gen Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p265_019_mic2_gen Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p265_020_mic2_gen Many complicated ideas about the rainbow have been formed. 
+p265_021_mic2_gen The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p265_022_mic2_gen The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. 
+p265_023_mic2_gen If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p265_024_mic2_gen This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p265_025_mic2_gen Is this accurate?
+p265_026_mic2_gen However, the following year the cancer returned.
+p265_027_mic2_gen They were described as being in a serious but stable condition yesterday.
+p265_028_mic2_gen This is the window.
+p265_029_mic2_gen We speak about the performance.
+p265_030_mic2_gen It's a fact.
+p265_031_mic2_gen Other members of the family were too upset to comment last night.
+p265_032_mic2_gen It has failed.
+p266_001_mic2_gen Please call Stella.  
+p266_002_mic2_gen Ask her to bring these things with her from the store.  
+p266_003_mic2_gen Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p266_004_mic2_gen We also need a small plastic snake and a big toy frog for the kids.  
+p266_005_mic2_gen She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p266_006_mic2_gen When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p266_007_mic2_gen The rainbow is a division of white light into many beautiful colors. 
+p266_008_mic2_gen These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p266_009_mic2_gen There is , according to legend, a boiling pot of gold at one end. 
+p266_010_mic2_gen People look, but no one ever finds it. 
+p266_011_mic2_gen When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p266_012_mic2_gen Throughout the centuries people have explained the rainbow in various ways. 
+p266_013_mic2_gen Some have accepted it as a miracle without physical explanation. 
+p266_014_mic2_gen To the Hebrews it was a token that there would be no more universal floods. 
+p266_015_mic2_gen The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p266_016_mic2_gen The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p266_017_mic2_gen Others have tried to explain the phenomenon physically. 
+p266_018_mic2_gen Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p266_019_mic2_gen Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p266_020_mic2_gen Many complicated ideas about the rainbow have been formed. 
+p266_021_mic2_gen The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p266_022_mic2_gen The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. 
+p266_023_mic2_gen If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p266_024_mic2_gen This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p266_025_mic2_gen She looked so young.
+p266_026_mic2_gen Several other countries are also reported to be interested in the format.
+p266_027_mic2_gen Is this accurate?
+p266_028_mic2_gen Their courage, and their honesty, should be respected.
+p266_029_mic2_gen There's a story, too.
+p266_030_mic2_gen They did not replace it with a conviction for culpable homicide.
+p271_001_mic2_gen Please call Stella.  
+p271_002_mic2_gen Ask her to bring these things with her from the store.  
+p271_003_mic2_gen Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p271_004_mic2_gen We also need a small plastic snake and a big toy frog for the kids.  
+p271_005_mic2_gen She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p271_006_mic2_gen When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p271_007_mic2_gen The rainbow is a division of white light into many beautiful colors. 
+p271_008_mic2_gen These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p271_009_mic2_gen There is , according to legend, a boiling pot of gold at one end. 
+p271_010_mic2_gen People look, but no one ever finds it. 
+p271_011_mic2_gen When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p271_012_mic2_gen Throughout the centuries people have explained the rainbow in various ways. 
+p271_013_mic2_gen Some have accepted it as a miracle without physical explanation. 
+p271_014_mic2_gen To the Hebrews it was a token that there would be no more universal floods. 
+p271_015_mic2_gen The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p271_016_mic2_gen The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p271_017_mic2_gen Others have tried to explain the phenomenon physically. 
+p271_018_mic2_gen Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p271_019_mic2_gen Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p271_020_mic2_gen Many complicated ideas about the rainbow have been formed. 
+p271_021_mic2_gen The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p271_022_mic2_gen The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. 
+p271_023_mic2_gen If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p271_024_mic2_gen This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p271_025_mic2_gen She looked so young.
+p271_026_mic2_gen We have to pull together, or we will hang apart.
+p271_027_mic2_gen Several other countries are also reported to be interested in the format.
+p271_028_mic2_gen I am not interested in the money, it is the principle.
+p271_029_mic2_gen They have no history.
+p271_030_mic2_gen However, the following year the cancer returned.
+p272_002_mic2_gen Ask her to bring these things with her from the store.  
+p272_003_mic2_gen Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p272_004_mic2_gen We also need a small plastic snake and a big toy frog for the kids.  
+p272_005_mic2_gen She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p272_006_mic2_gen When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p272_007_mic2_gen The rainbow is a division of white light into many beautiful colors. 
+p272_008_mic2_gen These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p272_009_mic2_gen There is , according to legend, a boiling pot of gold at one end. 
+p272_010_mic2_gen People look, but no one ever finds it. 
+p272_011_mic2_gen When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p272_012_mic2_gen Throughout the centuries people have explained the rainbow in various ways. 
+p272_013_mic2_gen Some have accepted it as a miracle without physical explanation. 
+p272_014_mic2_gen To the Hebrews it was a token that there would be no more universal floods. 
+p272_015_mic2_gen The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p272_016_mic2_gen The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p272_017_mic2_gen Others have tried to explain the phenomenon physically. 
+p272_018_mic2_gen Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p272_019_mic2_gen Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p272_020_mic2_gen Many complicated ideas about the rainbow have been formed. 
+p272_021_mic2_gen The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p272_022_mic2_gen The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. 
+p272_023_mic2_gen If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p272_024_mic2_gen This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p272_025_mic2_gen People come into the Borders for the beauty of the background.
+p272_026_mic2_gen Is this accurate?
+p272_027_mic2_gen They have no history.
+p272_028_mic2_gen Their courage, and their honesty, should be respected.
+p272_029_mic2_gen The abuse of elderly people was appalling.
+p272_030_mic2_gen There's a story, too.
+p272_031_mic2_gen This is the window.
+p275_001_mic2_gen Please call Stella.  
+p275_002_mic2_gen Ask her to bring these things with her from the store.  
+p275_003_mic2_gen Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p275_004_mic2_gen We also need a small plastic snake and a big toy frog for the kids.  
+p275_006_mic2_gen When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p275_007_mic2_gen The rainbow is a division of white light into many beautiful colors. 
+p275_008_mic2_gen These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p275_009_mic2_gen There is , according to the legend, a boiling pot of gold at one end. 
+p275_010_mic2_gen People look, but no one ever finds it. 
+p275_011_mic2_gen When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p275_012_mic2_gen Throughout the centuries people have explained the rainbows in various ways. 
+p275_013_mic2_gen Some have accepted it as a miracle without physical explanation. 
+p275_014_mic2_gen To the Hebrews it was a token that there would be no more universal floods. 
+p275_015_mic2_gen The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p275_016_mic2_gen The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p275_017_mic2_gen Others have tried to explain the phenomenon physically. 
+p275_018_mic2_gen Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p275_019_mic2_gen Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p275_020_mic2_gen Many complicated ideas about the rainbow have been formed. 
+p275_022_mic2_gen The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. 
+p275_023_mic2_gen If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p275_024_mic2_gen This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p275_025_mic2_gen But it failed.
+p275_026_mic2_gen Police were called to the scene, according to the weekend reports.
+p275_027_mic2_gen We have to pull together, or we will hang apart.
+p275_028_mic2_gen Several other countries are also reported to be interested in the format.
+p275_029_mic2_gen Their courage, and their honesty, should be respected.
+p275_030_mic2_gen They were described as being in a serious but stable condition yesterday.
+p275_031_mic2_gen There's a story, too.
+p275_032_mic2_gen He was jailed for four years.
+p276_002_mic2_gen Ask her to bring these things with her from the store.  
+p276_003_mic2_gen Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p276_004_mic2_gen We also need a small plastic snake and a big toy frog for the kids.  
+p276_005_mic2_gen She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p276_006_mic2_gen When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p276_007_mic2_gen The rainbow is a division of white light into many beautiful colors. 
+p276_008_mic2_gen These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p276_009_mic2_gen There is , according to legend, a boiling pot of gold at one end. 
+p276_010_mic2_gen People look, but no one ever finds it. 
+p276_011_mic2_gen When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p276_012_mic2_gen Throughout the centuries people have explained the rainbow in various ways. 
+p276_013_mic2_gen Some have accepted it as a miracle without physical explanation. 
+p276_014_mic2_gen To the Hebrews it was a token that there would be no more universal floods. 
+p276_015_mic2_gen The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p276_016_mic2_gen The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p276_017_mic2_gen Others have tried to explain the phenomenon physically. 
+p276_018_mic2_gen Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p276_019_mic2_gen Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p276_020_mic2_gen Many complicated ideas about the rainbow have been formed. 
+p276_021_mic2_gen The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p276_022_mic2_gen The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. 
+p276_023_mic2_gen If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p276_024_mic2_gen This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p276_025_mic2_gen Why do you want to come to Edinburgh?
+p276_026_mic2_gen How are you, sir?
+p276_027_mic2_gen So is that it, then?
+p276_028_mic2_gen Do I have a favourite?
+p276_029_mic2_gen What do we do?
+p276_030_mic2_gen They might have asked, for goodness sake.
+p276_031_mic2_gen Smoking is also very important.
+p277_002_mic2_gen Ask her to bring these things with her from the store.  
+p277_003_mic2_gen Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p277_004_mic2_gen We also need a small plastic snake and a big toy frog for the kids.  
+p277_005_mic2_gen She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p277_006_mic2_gen When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p277_007_mic2_gen The rainbow is a division of white light into many beautiful colors. 
+p277_008_mic2_gen These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p277_009_mic2_gen There is , according to legend, a boiling pot of gold at one end. 
+p277_010_mic2_gen People look, but no one ever finds it. 
+p277_011_mic2_gen When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p277_012_mic2_gen Throughout the centuries people have explained the rainbow in various ways. 
+p277_013_mic2_gen Some have accepted it as a miracle without physical explanation. 
+p277_014_mic2_gen To the Hebrews it was a token that there would be no more universal floods. 
+p277_015_mic2_gen The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p277_016_mic2_gen The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p277_017_mic2_gen Others have tried to explain the phenomenon physically. 
+p277_018_mic2_gen Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p277_019_mic2_gen Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p277_020_mic2_gen Many complicated ideas about the rainbow have been formed. 
+p277_021_mic2_gen The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p277_022_mic2_gen The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. 
+p277_023_mic2_gen If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p277_024_mic2_gen This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p277_025_mic2_gen People come into the Borders for the beauty of the background.
+p277_026_mic2_gen Is this accurate?
+p277_027_mic2_gen They have no history.
+p277_028_mic2_gen Their courage, and their honesty, should be respected.
+p277_029_mic2_gen The abuse of elderly people was appalling.
+p277_030_mic2_gen There's a story, too.
+p277_031_mic2_gen This is the window.
+p281_002_mic2_gen Ask her to bring these things with her from the store.  
+p281_003_mic2_gen Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p281_004_mic2_gen We also need a small plastic snake and a big toy frog for the kids.  
+p281_005_mic2_gen She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p281_006_mic2_gen When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p281_007_mic2_gen The rainbow is a division of white light into many beautiful colors. 
+p281_008_mic2_gen These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p281_009_mic2_gen There is , according to legend, a boiling pot of gold at one end. 
+p281_010_mic2_gen People look, but no one ever finds it. 
+p281_011_mic2_gen When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p281_012_mic2_gen Throughout the centuries people have explained the rainbow in various ways. 
+p281_013_mic2_gen Some have accepted it as a miracle without physical explanation. 
+p281_014_mic2_gen To the Hebrews it was a token that there would be no more universal floods. 
+p281_015_mic2_gen The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p281_016_mic2_gen The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p281_017_mic2_gen Others have tried to explain the phenomenon physically. 
+p281_018_mic2_gen Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p281_019_mic2_gen Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p281_020_mic2_gen Many complicated ideas about the rainbow have been formed. 
+p281_021_mic2_gen The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p281_022_mic2_gen The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. 
+p281_023_mic2_gen If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p281_024_mic2_gen This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p281_025_mic2_gen She is given a new deputy minister for transport and planning.
+p281_026_mic2_gen They are very clever in their use of words.
+p281_027_mic2_gen In both cases, I suffered a fiasco.
+p281_028_mic2_gen Smoking is also very important.
+p281_029_mic2_gen It's not going to work out that way.
+p281_030_mic2_gen They've got their own agenda.
+p281_031_mic2_gen I'd just like to play.
+p282_002_mic2_gen Ask her to bring these things with her from the store.  
+p282_003_mic2_gen Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p282_004_mic2_gen We also need a small plastic snake and a big toy frog for the kids.  
+p282_005_mic2_gen She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p282_006_mic2_gen When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p282_007_mic2_gen The rainbow is a division of white light into many beautiful colors. 
+p282_009_mic2_gen There is , according to legend, a boiling pot of gold at one end. 
+p282_010_mic2_gen People look, but no one ever finds it. 
+p282_011_mic2_gen When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p282_012_mic2_gen Throughout the centuries people have explained the rainbow in various ways. 
+p282_013_mic2_gen Some have accepted it as a miracle without physical explanation. 
+p282_014_mic2_gen To the Hebrews it was a token that there would be no more universal floods. 
+p282_015_mic2_gen The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p282_016_mic2_gen The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p282_017_mic2_gen Others have tried to explain the phenomenon physically. 
+p282_018_mic2_gen Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p282_020_mic2_gen Many complicated ideas about the rainbow have been formed. 
+p282_021_mic2_gen The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p282_022_mic2_gen The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. 
+p282_023_mic2_gen If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p282_024_mic2_gen This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.She is given a new deputy minister for transport and planning.
+p282_025_mic2_gen But it failed.
+p282_026_mic2_gen Police were called to the scene, according to the weekend reports.
+p282_027_mic2_gen Several other countries are also reported to be interested in the format.
+p282_028_mic2_gen However, the following year the cancer returned.
+p282_029_mic2_gen Their courage, and their honesty, should be respected.
+p282_030_mic2_gen This is the window.
+p282_031_mic2_gen He was jailed for five years.
+p282_032_mic2_gen Help is needed.
+p282_033_mic2_gen Then, suddenly, they weren't.
+p283_001_mic2_gen Please call Stella.  
+p283_002_mic2_gen Ask her to bring these things with her from the store.  
+p283_003_mic2_gen Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p283_004_mic2_gen We also need a small plastic snake and a big toy frog for the kids.  
+p283_005_mic2_gen She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p283_006_mic2_gen When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p283_007_mic2_gen The rainbow is a division of white light into many beautiful colors. 
+p283_008_mic2_gen These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p283_009_mic2_gen There is , according to legend, a boiling pot of gold at one end. 
+p283_010_mic2_gen People look, but no one ever finds it. 
+p283_011_mic2_gen When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p283_012_mic2_gen Throughout the centuries people have explained the rainbow in various ways. 
+p283_013_mic2_gen Some have accepted it as a miracle without physical explanation. 
+p283_014_mic2_gen To the Hebrews it was a token that there would be no more universal floods. 
+p283_015_mic2_gen The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p283_016_mic2_gen The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p283_017_mic2_gen Others have tried to explain the phenomenon physically. 
+p283_018_mic2_gen Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p283_019_mic2_gen Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p283_020_mic2_gen Many complicated ideas about the rainbow have been formed. 
+p283_021_mic2_gen The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p283_022_mic2_gen The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. 
+p283_023_mic2_gen If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p283_024_mic2_gen This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p283_025_mic2_gen That will be a decision for BBC Scotland.
+p283_026_mic2_gen We are a service industry.
+p283_027_mic2_gen It's not going to work out that way.
+p283_028_mic2_gen The idea is not new.
+p283_029_mic2_gen Because we do not need it.
+p283_030_mic2_gen And we have a singer.
+p284_001_mic2_gen Please call Stella.  
+p284_002_mic2_gen Ask her to bring these things with her from the store.  
+p284_003_mic2_gen Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p284_004_mic2_gen We also need a small plastic snake and a big toy frog for the kids.  
+p284_005_mic2_gen She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p284_006_mic2_gen When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p284_007_mic2_gen The rainbow is a division of white light into many beautiful colors. 
+p284_008_mic2_gen These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p284_009_mic2_gen There is , according to legend, a boiling pot of gold at one end. 
+p284_010_mic2_gen People look, but no one ever finds it. 
+p284_011_mic2_gen When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p284_012_mic2_gen Throughout the centuries people have explained the rainbow in various ways. 
+p284_013_mic2_gen Some have accepted it as a miracle without physical explanation. 
+p284_014_mic2_gen To the Hebrews it was a token that there would be no more universal floods. 
+p284_015_mic2_gen The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p284_016_mic2_gen The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p284_017_mic2_gen Others have tried to explain the phenomenon physically. 
+p284_018_mic2_gen Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p284_019_mic2_gen Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p284_020_mic2_gen Many complicated ideas about the rainbow have been formed. 
+p284_021_mic2_gen The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p284_022_mic2_gen The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. 
+p284_023_mic2_gen If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p284_024_mic2_gen This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.It's nice to hear.
+p284_025_mic2_gen Several other countries are also reported to be interested in the format.
+p284_026_mic2_gen We will be homeless.
+p284_027_mic2_gen Is this accurate?
+p284_028_mic2_gen I am not interested in the money, it is the principle.
+p284_029_mic2_gen They have no history.
+p284_030_mic2_gen Their courage, and their honesty, should be respected.
+p285_001_mic2_gen Please call Stella.  
+p285_002_mic2_gen Ask her to bring these things with her from the store.  
+p285_003_mic2_gen Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p285_004_mic2_gen We also need a small plastic snake and a big toy frog for the kids.  
+p285_005_mic2_gen She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p285_006_mic2_gen When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p285_007_mic2_gen The rainbow is a division of white light into many beautiful colors. 
+p285_008_mic2_gen These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p285_009_mic2_gen There is , according to legend, a boiling pot of gold at one end. 
+p285_010_mic2_gen People look, but no one ever finds it. 
+p285_011_mic2_gen When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p285_012_mic2_gen Throughout the centuries people have explained the rainbow in various ways. 
+p285_013_mic2_gen Some have accepted it as a miracle without physical explanation. 
+p285_014_mic2_gen To the Hebrews it was a token that there would be no more universal floods. 
+p285_015_mic2_gen The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p285_016_mic2_gen The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p285_017_mic2_gen Others have tried to explain the phenomenon physically. 
+p285_018_mic2_gen Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p285_019_mic2_gen Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p285_020_mic2_gen Many complicated ideas about the rainbow have been formed. 
+p285_021_mic2_gen The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p285_022_mic2_gen The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. 
+p285_023_mic2_gen If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p285_024_mic2_gen This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p285_025_mic2_gen Police were called to the scene, according to the weekend reports.
+p285_026_mic2_gen In both cases, I suffered a fiasco.
+p285_027_mic2_gen Several other countries are also reported to be interested in the format.
+p285_028_mic2_gen However, the following year the cancer returned.
+p285_029_mic2_gen Their courage, and their honesty, should be respected.
+p285_030_mic2_gen They were described as being in a serious but stable condition yesterday.
+p288_001_mic2_gen Please call Stella.  
+p288_002_mic2_gen Ask her to bring these things with her from the store.  
+p288_003_mic2_gen Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  
+p288_004_mic2_gen We also need a small plastic snake and a big toy frog for the kids.  
+p288_005_mic2_gen She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. 
+p288_006_mic2_gen When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow. 
+p288_007_mic2_gen The rainbow is a division of white light into many beautiful colors. 
+p288_008_mic2_gen These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. 
+p288_009_mic2_gen There is , according to legend, a boiling pot of gold at one end. 
+p288_010_mic2_gen People look, but no one ever finds it. 
+p288_011_mic2_gen When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow. 
+p288_012_mic2_gen Throughout the centuries people have explained the rainbow in various ways. 
+p288_013_mic2_gen Some have accepted it as a miracle without physical explanation. 
+p288_014_mic2_gen To the Hebrews it was a token that there would be no more universal floods. 
+p288_015_mic2_gen The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain. 
+p288_016_mic2_gen The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. 
+p288_017_mic2_gen Others have tried to explain the phenomenon physically. 
+p288_018_mic2_gen Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. 
+p288_019_mic2_gen Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. 
+p288_020_mic2_gen Many complicated ideas about the rainbow have been formed. 
+p288_021_mic2_gen The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. 
+p288_022_mic2_gen The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. 
+p288_023_mic2_gen If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow. 
+p288_024_mic2_gen This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p288_025_mic2_gen She is given a new deputy minister for transport and planning.
+p288_026_mic2_gen It is a disaster area.
+p288_027_mic2_gen Is this accurate?
+p288_028_mic2_gen However, the following year the cancer returned.
+p288_029_mic2_gen Because we do not need it.
+p288_030_mic2_gen I was an athlete.
+p293_001_mic2_gen Please call Stella.
+p293_002_mic2_gen Ask her to bring these things with her from the store.
+p293_003_mic2_gen Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.
+p293_004_mic2_gen We also need a small plastic snake and a big toy frog for the kids.
+p293_005_mic2_gen She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.
+p293_006_mic2_gen When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.
+p293_007_mic2_gen The rainbow is a division of white light into many beautiful colors.
+p293_008_mic2_gen These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon.
+p293_009_mic2_gen There is , according to legend, a boiling pot of gold at one end.
+p293_010_mic2_gen People look, but no one ever finds it.
+p293_011_mic2_gen When a man looks for something beyond his reach, his friends say he's looking for the pot of gold at the end of the rainbow.
+p293_012_mic2_gen Throughout the centuries people have explained the rainbow in various ways.
+p293_013_mic2_gen Some have accepted it as a miracle without physical explanation.
+p293_014_mic2_gen To the Hebrews it was a token that there would be no more universal floods.
+p293_015_mic2_gen The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain.
+p293_016_mic2_gen The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky.
+p293_018_mic2_gen Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain.
+p293_019_mic2_gen Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows.
+p293_020_mic2_gen Many complicated ideas about the rainbow have been formed.
+p293_021_mic2_gen The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.
+p293_022_mic2_gen The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows.
+p293_023_mic2_gen If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow.
+p293_024_mic2_gen This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.
+p293_025_mic2_gen It's not, of course, a concert hall.
+p293_026_mic2_gen Theatre is not a museum.
+p293_027_mic2_gen It is not true to Hollywood, nor The Player.
+p293_028_mic2_gen All my training is for Athens.
+p293_029_mic2_gen Subs not used, McCulloch.
+p293_030_mic2_gen I couldn't really work outside Edinburgh.
+p293_032_mic2_gen We are satisfied with this outcome.
